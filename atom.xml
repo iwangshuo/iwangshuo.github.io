@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>烟火里的尘埃</title>
   
-  
+  <subtitle>我的心里住着一个苍老的小孩</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-17T02:23:43.220Z</updated>
+  <updated>2017-12-17T05:17:35.077Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2017/12/17/hexo-install/"/>
     <id>http://yoursite.com/2017/12/17/hexo-install/</id>
     <published>2017-12-17T01:33:26.000Z</published>
-    <updated>2017-12-17T02:23:43.220Z</updated>
+    <updated>2017-12-17T05:17:35.077Z</updated>
     
     <content type="html"><![CDATA[<p>what is the hell?</p>]]></content>
     
@@ -45,16 +45,23 @@
     <link href="http://yoursite.com/2017/12/17/To-Be-Free/"/>
     <id>http://yoursite.com/2017/12/17/To-Be-Free/</id>
     <published>2017-12-17T00:07:27.000Z</published>
-    <updated>2017-12-17T01:02:58.768Z</updated>
+    <updated>2017-12-17T05:17:18.212Z</updated>
+    
+    <content type="html"><![CDATA[<center><br>演唱：华晨宇<br>作曲：华晨宇<br>作词：尹约<br><p></p><br>四面筑起高墙<br>画地为牢的空间<br>狭窄的安全<br><p></p><br>为什么嘲笑我们冒险<br>才能让他们感到一秒钟优越<br>究竟谁发明时间<br>发明空间 发明身边每个瞬间<br>发明了傲慢偏见<br><p></p><br>哪怕我们被困在原地<br>黑布蒙住眼睛<br>伸手也能触碰黎明<br>勇士之门尘封着奇迹<br>信念拔地而起<br>come on we are bound to be free<br><p></p><br>真相有多锋利<br>精心编织的谎言就有多细腻<br>苟活在龙卷风的中心<br>看起来风平浪静 却暗藏杀气<br>我们要远离洗脑<br>远离虚荣 远离煽动 远离盲从<br>年轻不需要缓冲<br><p></p><br>哪怕我们被困在原地<br>黑布蒙住眼睛 伸手也能触碰黎明<br>勇士之门尘封着奇迹<br>信念拔地而起<br>come on we are bound to be free<br><p></p><br>是谁困在原地<br>是谁蒙住眼睛 是谁双手高举<br>不顾一切地碰触光明 光明<br><p></p><br>哪怕我们被困在原地<br>黑布蒙住眼睛<br>伸手也能触碰黎明<br>勇士之门尘封着奇迹<br>信念拔地而起<br>come on we are bound to be free<br></center>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;center&gt;&lt;br&gt;演唱：华晨宇&lt;br&gt;作曲：华晨宇&lt;br&gt;作词：尹约&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;四面筑起高墙&lt;br&gt;画地为牢的空间&lt;br&gt;狭窄的安全&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;为什么嘲笑我们冒险&lt;br&gt;才能让他们感到一秒钟优越&lt;br&gt;究竟谁发明时间&lt;br&gt;发明空间 发明
+      
     
     </summary>
     
       <category term="Music" scheme="http://yoursite.com/categories/Music/"/>
     
     
-      <category term="huachenyu" scheme="http://yoursite.com/tags/huachenyu/"/>
+      <category term="华晨宇" scheme="http://yoursite.com/tags/%E5%8D%8E%E6%99%A8%E5%AE%87/"/>
     
   </entry>
   
@@ -63,7 +70,7 @@
     <link href="http://yoursite.com/2017/12/17/hello-world/"/>
     <id>http://yoursite.com/2017/12/17/hello-world/</id>
     <published>2017-12-16T23:32:21.000Z</published>
-    <updated>2017-12-17T01:03:06.115Z</updated>
+    <updated>2017-12-17T05:17:44.616Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -84,8 +91,6 @@
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
       <category term="quick-start" scheme="http://yoursite.com/tags/quick-start/"/>
-    
-      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
     
   </entry>
   
